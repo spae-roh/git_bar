@@ -4,9 +4,10 @@ if __name__ == "__main__":
             '''constructor items-> total items in vending machine money-> buying price of each item'''
             self.items = items
             self.money = money
-        
-    cola = Vending_machine(10, 20)
-    print(cola.items, cola.money)
+
+        def add_items(self, items):
+            self.items += items
+
 
 
             
