@@ -15,4 +15,5 @@ if __name__ == "__main__":
 
 
 print("check1 added modified")
-print("check2 added resolved")            
+print("check2 added resolved check2")            
+print("added")
