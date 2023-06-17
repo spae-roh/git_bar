@@ -14,5 +14,5 @@ if __name__ == "__main__":
                 print("request container of items cannot be added. limited space left is ",(100-self.items))
 
 
-print("check1 added")
-print("check2 added")            
+print("check1 added modified")
+print("check2 added resolved")            
