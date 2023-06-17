@@ -15,5 +15,6 @@ if __name__ == "__main__":
 
 
 print("check1 added modified")
-print("check2 added")  
-print("check1 conflict instruction")          
+print("check2 added resilved")  
+print("check1 conflict instruction")      
+print("added")    
